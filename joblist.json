@@ -1,422 +1,461 @@
-[
-  {
-    "position": "Senior API Platform Solutions Design Engineer",
-    "company": "Sun Life Financial",
-    "location": "Toronto, ON",
-    "description": "but are not limited to the following: Lead the design, development, deployment and rollout of enhancements on the API Platform, both in the cloud and on premise.Participate in the design of delivery solutions, ensuring alignment with b[...]"
-  },
-  {
-    "position": "Project Manager II - Senior Project Manager, Technology Services",
-    "company": "City of Vancouver",
-    "location": "Vancouver, BC",
-    "description": "cross-department projects, including: Manages project teams to successfully deliver projects. Assigns work to project team members, specifying deliverables, timelines and quality expectations. Monitors performance of project team membe[...]"
-  },
-  {
-    "position": "Data Scientist (6-month Full-time)",
-    "company": "Technical Safety BC",
-    "location": "Vancouver, BC",
-    "description": "The Opportunity As a part of the Research and Analytics team, the position will exercise leadership through data science to effect positive change to the organization and stakeholders alike. Responsible for analyzing safety data and de[...]"
-  },
-  {
-    "position": "Cyber Security Specialist 3",
-    "company": "BCLC",
-    "location": "Anywhere - British Columbia",
-    "description": "JOB SUMMARY The Cyber Security Specialist 3 role supports BCLC's Cyber Security program and supports projects and business operations by taking a lead role in identifying information security risks in high-complexity systems, recommend[...]"
-  },
-  {
-    "position": "Devsecops Solutions Consultant Hit enter to view the job description",
-    "company": "OpenText",
-    "location": "Anywhere - Canada",
-    "description": "As a member of our team, you will have the opportunity to partner with the most highly regarded companies in the world, tackle complex issues, and contribute to projects that shape the future of digital transformation. YOUR IMPACTAs De[...]"
-  },
-  {
-    "position": "Product Marketing Manager-AI&IOT (Canada) Hit enter to view the job description",
-    "company": "OpenText",
-    "location": "Anywhere - Canada",
-    "description": "As a member of our team, you will have the opportunity to partner with the most highly regarded companies in the world, tackle complex issues, and contribute to projects that shape the future of digital transformation. YOUR IMPACTProdu[...]"
-  },
-  {
-    "position": "Digital Content Designer",
-    "company": "Rogers communications inc.",
-    "location": "Moncton, NB",
-    "description": "If you are interested in being a part of this, consider applying for the following opportunity: Digital Content Designer Reporting to the Senior Manager, Digital Content, you will collaborate with marketing, product, UX, and digital an[...]"
-  },
-  {
-    "position": "User Experience Designer",
-    "company": "SAP",
-    "location": "Vancouver, BC",
-    "description": "you are able to develop and present design ideas in a large team environment. Prior experience working within a technical environment is a key requirement. You possess strong experience and interaction design skills, as well as compreh[...]"
-  },
-  {
-    "position": "Corporate Digital Account Executive",
-    "company": "SAP",
-    "location": "Vancouver, BC",
-    "description": "Corporate Digital Account Executive What you'll do: The Account Executive (AE) role empowers customers to achieve their full potential by strategically positioning SAP cloud solutions to address their unique business challenges and lay[...]"
-  },
-  {
-    "position": "Software Development Engineer, S3",
-    "company": "Amazon",
-    "location": "Vancouver, BC",
-    "description": "There's an element of algorithmic experimentation and discovery, as well as an opportunity to build operational excellence, and hear directly from our customers.BASIC QUALIFICATIONS- 3+ years of non-internship professional software dev[...]"
-  },
-  {
-    "position": "Software Development Engineer, AWS Marketplace, Partner Onboarding Management",
-    "company": "Amazon",
-    "location": "Vancouver, BC",
-    "description": "As a Software Development Engineer on the team you will own significant portions of the product and will have significant influence on our strategy by helping define the next wave of product features and system architecture. The system[...]"
-  },
-  {
-    "position": "Senior Software Engineer - Full Stack",
-    "company": "Microsoft Canada",
-    "location": "Vancouver, BC",
-    "description": "The Viva Horizontals team is looking to hire a Senior Software Engineer - Full Stack who has a passion for technology, intellectual curiosity, and willingness to learn and share knowledge. We have a full roadmap and some interesting ch[...]"
-  },
-  {
-    "position": "Senior Data Analyst",
-    "company": "Microsoft Canada",
-    "location": "Vancouver, BC",
-    "description": "We are seeking a goal-driven Senior Data Analyst with extensive experience in delivering data-driven decision making & self-serve analytics to optimize customer experience and support operations across Microsoft's assisted and self-ser[...]"
-  },
-  {
-    "position": "Senior Researcher - Systems and Networking, Microsoft Research",
-    "company": "Microsoft Canada",
-    "location": "Vancouver, BC",
-    "description": "Experience publishing academic papers as a lead author or essential contributor. Experience participating in a top conference in relevant research domain. Background in systems and networking, including experience with machine learning[...]"
-  },
-  {
-    "position": "Senior Researcher - Artificial Specialized Intelligence, Microsoft Research",
-    "company": "Microsoft Canada",
-    "location": "Vancouver, BC",
-    "description": "Experience publishing academic papers as a lead author or essential contributor. Experience participating in a top conference in relevant research domain. Background in system and architecture, including experience with computer hardwa[...]"
-  },
-  {
-    "position": "Researcher - Cloud and AI Infrastructure, Microsoft Research",
-    "company": "Microsoft Canada",
-    "location": "Vancouver, BC",
-    "description": "you will investigate and analyze emerging hardware technologies, trends, and advancements to stay ahead of the industry. Design and optimize hardware components, systems, and architectures to enhance performance, reliability, and effic[...]"
-  },
-  {
-    "position": "Senior Researcher - Cloud and AI Infrastructure, Microsoft Research",
-    "company": "Microsoft Canada",
-    "location": "Vancouver, BC",
-    "description": "you will investigate and analyze emerging hardware technologies, trends, and advancements to stay ahead of the industry. Design and optimize hardware components, systems, and architectures to enhance performance, reliability, and effic[...]"
-  },
-  {
-    "position": "Researcher - Artificial Specialized Intelligence, Microsoft Research",
-    "company": "Microsoft Canada",
-    "location": "Vancouver, BC",
-    "description": "Experience publishing academic papers as a lead author or essential contributor. Experience participating in a top conference in relevant research domain. Background in system and architecture, including experience with computer hardwa[...]"
-  },
-  {
-    "position": "Researcher - Systems and Networking, Microsoft Research",
-    "company": "Microsoft Canada",
-    "location": "Vancouver, BC",
-    "description": "Experience publishing academic papers as a lead author or essential contributor. Experience participating in a top conference in relevant research domain. Background in systems and networking, including experience with machine learning[...]"
-  },
-  {
-    "position": "Technical Support Engineering",
-    "company": "Microsoft Canada",
-    "location": "Anywhere - Canada",
-    "description": "Technical Support Engineering IC3 - The typical base pay range for this role across Canada is CAD $66,500 - CAD $128,300 per year.Find additional pay information here: https://careers.microsoft.com/v2/global/en/canada-pay-information.h[...]"
-  },
-  {
-    "position": "Principal Software Engineer",
-    "company": "Microsoft Canada",
-    "location": "Vancouver, BC",
-    "description": "Does the opportunity to be involved in state-of-the-art development, measurement and experimentation by leveraging Large Language Model inspiring? If so, this Principal Software Engineer position may be a perfect fit for you!Microsoft [...]"
-  },
-  {
-    "position": "Big Data Developer, Gft",
-    "company": "RBC - Royal Bank",
-    "location": "Vancouver, BC",
-    "description": "creative and results-driven professional who thrives on delivering high-performing applications? Come join us!Global Functions Technology (GFT) is part of RBC's Technology and Operations division. GFT's impact is far-reaching as we col[...]"
-  },
-  {
-    "position": "DevOps Manager",
-    "company": "Accenture",
-    "location": "Montreal, QC",
-    "description": "Job Description DevOps Manager Job Description:ARE YOU READY to step up to the New and take your technology expertise to the next level.There is never a typical day at Accenture, but that's why we love it here! This is an extraordinary[...]"
-  },
-  {
-    "position": "Support Analyst l",
-    "company": "UBC",
-    "location": "Vancouver, BC",
-    "description": "Staff - Non UnionJob CategoryM&P - AAPSJob ProfileAAPS Salaried - Information Systems and Technology, Level AJob TitleSupport Analyst lDepartmentUBC IT | Service CentreCompensation Range$5,365.42 - $7,709.92 CAD MonthlyThe Compensation[...]"
-  },
-  {
-    "position": "CAD Designer",
-    "company": "Arpac Storage Systems Corporation",
-    "location": "Delta, BC",
-    "description": "Our Delta Storage Products division is seeking a full-time CAD Designer to join our Engineering and Design team! The ideal candidate has 2+ years of experience designing customized racking parts and systems, experience using AutoCAD, a[...]"
-  },
-  {
-    "position": "Systems Analyst, Clinical Solutions, Imits",
-    "company": "Provincial Health Services Authority",
-    "location": "Vancouver, BC",
-    "description": "Job Type: Full-Time, Part-Time, Temporary, Casual, Contractor Job Level: Entry, Mid, Senior Travel: Minimal Job Details Systems Analyst, Clinical Solutions, IMITS Vancouver, Canada APPLY SAVE JOB BUTTON Job ID 2429791_pl355 Date posted[...]"
-  },
-  {
-    "position": "Support Engineer Manager- Data Technology",
-    "company": "Microsoft Canada",
-    "location": "Vancouver, BC",
-    "description": "Uses tools and strategy to monitor the performance of a team or delivery unit as a whole (e.g., backlog, structure, trends, volume, other business metrics). Serves as the first line of management escalation.\u00b7 Tracks resolution speed a[...]"
-  },
-  {
-    "position": "Test Data Management Lead",
-    "company": "Accenture",
-    "location": "Montreal, QC",
-    "description": "Job Description Test Data Management Lead Job Description:ARE YOU READY to step up to the New and take your technology expertise to the next level.There is never a typical day at Accenture, but that's why we love it here! This is an ex[...]"
-  },
-  {
-    "position": "Product Care Specialist (Mobile Klinik) | Guildford Town, BC",
-    "company": "TELUS",
-    "location": "Surrey, BC",
-    "description": "where every day is different Engage with prospective and current customers in store, by phone and messaging Provide repair and replacement estimates for the customer Working hours and locations Opportunity to work with all of our brand[...]"
-  },
-  {
-    "position": "Quality Assurance Manager",
-    "company": "RailWorks",
-    "location": "Abbotsford, BC",
-    "description": "implements and maintains project-specific quality control programs and processes to meet or exceed quality goals, expectations and plans. Oversees quality testing and inspections; evaluates engineering, procurement, and construction ac[...]"
-  },
-  {
-    "position": "Senior IT Project Manager",
-    "company": "West Fraser",
-    "location": "Vancouver, BC",
-    "description": "Coach, mentor, motivate and supervise project team members and contractors, and influence them to take positive actions and accountability for their assigned work Assist IT and PMO leadership in developing and improving project managem[...]"
-  },
-  {
-    "position": "Supervisor Front End-ft Admirals",
-    "company": "Thrifty Foods",
-    "location": "Victoria, BC",
-    "description": "Requisition ID:  187342  Career Group: Store Careers  Job Category: Retail - Front End  Travel Requirements: 0 - 10% Job Type: Full-Time  Country: Canada (CA)  Province: British Columbia  City: Victoria Location: 9463 Admirals Walk Thrifty Postal"
-  },
-  {
-    "position": "Senior Product Manager",
-    "company": "RBC - Royal Bank",
-    "location": "Vancouver, BC",
-    "description": "We are seeking a Senior Product Manager to lead a product in our Generative AI Advice Centre portfolio. In this role, you will be responsible for shaping the vision, strategy, and delivery of generative AI products. You will work at th[...]"
-  },
-  {
-    "position": "Sr. Technical Program Manager, Tax Engine",
-    "company": "Amazon",
-    "location": "Vancouver, BC",
-    "description": "As a Sr. Technical Program Manager on the team:- You will have end to end ownership of cross-functional projects, including product definition, roadmap planning, and resource planning and project execution.- Along with business initiat[...]"
-  },
-  {
-    "position": "Senior Software Development Engineer, Tax Content Management",
-    "company": "Amazon",
-    "location": "Vancouver, BC",
-    "description": "BASIC QUALIFICATIONS- 5+ years of non-internship professional software development experience- 5+ years of programming with at least one software programming language experience- 5+ years of leading design or architecture (design patte[...]"
-  },
-  {
-    "position": "Manager III, TPM, Ww Prime - Member Growth - Tech",
-    "company": "Amazon",
-    "location": "Vancouver, BC",
-    "description": "demonstrated leader/manager with superior people management and analytical abilities. This opportunity requires excellent technical, problem-solving, and communication skills. This candidate should possess verifiable leadership qualiti[...]"
-  },
-  {
-    "position": "Senior Fx Artist - 3D (BC Based)",
-    "company": "Mainframe Studios",
-    "location": "Vancouver, BC",
-    "description": "With partners like Mattel, Netflix, DreamWorks, Sony, Silvergate, and Nickelodeon, it's no wonder we've established ourselves as a creative force to be reckoned with. In crewing our shows, Mainframe Studios values the strength in the d[...]"
-  },
-  {
-    "position": "Graphic Designer",
-    "company": "QuadReal",
-    "location": "Vancouver, BC",
-    "description": "comGraphic Designer, Oakridge ParkRole DescriptionReporting to the Marketing Director, the Graphic Designer at Oakridge Park is responsible for the visual and digital identity of Oakridge Park's brand.As the creative lead, the Graphic [...]"
-  },
-  {
-    "position": "Integration Solution Architect (Systems Analyst III)",
-    "company": "City of Vancouver",
-    "location": "Vancouver, BC",
-    "description": "evaluates and recommends new tools and methodologies for the integration of enterprise applications Validates, Refines and Expands the Enterprise Architecture Model Verifies assumptions; utilizes subject matter experts to improve and f[...]"
-  },
-  {
-    "position": "Sr Analyst Wireless Base Mgmt",
-    "company": "Rogers communications inc.",
-    "location": "Montreal, QC",
-    "description": "Our company was built on the dream of a pioneering entrepreneur, and that spirit continues to empower our work with businesses across Canada today. The Rogers Business team helps organizations of all sizes adapt, scale, and win with network services"
-  },
-  {
-    "position": "Senior Data Analyst",
-    "company": "Wawanesa Insurance",
-    "location": "Dartmouth, NS",
-    "description": "Job Overview This exciting job opportunity as a Data Analyst (or Senior Data Analyst) will be part of the Personal Lines Pricing Insights team and play a key role in building data products and reporting that supports decision making in[...]"
-  },
-  {
-    "position": "SMTS Software Development Eng.",
-    "company": "AMD",
-    "location": "Vancouver, BC",
-    "description": "Optimize Deep Learning Frameworks: Enhance and optimize frameworks like TensorFlow and PyTorch for AMD GPUs in open-source repositories. Develop GPU Kernels: Create and optimize GPU kernels to maximize performance for specific AI o[...]"
-  },
-  {
-    "position": "L3 Data Management",
-    "company": "TELUS",
-    "location": "Ottawa, ON",
-    "description": "What you'll do As an L3 Data management on the Analytics & Insight team within Supply Operations and Procurement, you will play a pivotal role in supporting complex cross-functional programs and driving strategic initiatives with a foc[...]"
-  },
-  {
-    "position": "Senior Customer Solutions Architect- Cybersecurity",
-    "company": "TELUS",
-    "location": "Calgary, AB",
-    "description": "Description Are you ready to help our customers take their Cybersecurity to the next level? Our team and what we'll accomplish together As a Senior Cybersecurity CSA, you'll play an essential role in supporting our clients and sales te[...]"
-  },
-  {
-    "position": "Salesforce Administrator",
-    "company": "UBC",
-    "location": "Vancouver, BC",
-    "description": "Staff - Non UnionJob CategoryM&P - AAPSJob ProfileAAPS Salaried - Information Systems and Technology, Level DJob TitleSalesforce AdministratorDepartmentSenior Managers | Finance and IT | UBC Sauder School of BusinessCompensation Range$[...]"
-  },
-  {
-    "position": "ICT Information Technologist (info Tech)",
-    "company": "Make a Future - BC Public Schools",
-    "location": "Coquitlam, BC",
-    "description": "Providing on-site technical support and staff training, installation, configuration, trouble shooting and resolution of any software and/or hardware problems that may arise with computer users for educational and administrative functio[...]"
-  },
-  {
-    "position": "Desktop Support",
-    "company": "Mainframe Studios",
-    "location": "Vancouver, BC",
-    "description": "WE WANT YOU (and your mad skills)! Reporting to the Director of IT & Facilities, Desktop Support will be responsible for providing 1st and 2nd level hardware and software support for computer users. We are seeking a skilled and custome[...]"
-  },
-  {
-    "position": "Development Manager (Technology)",
-    "company": "Aequilibrium",
-    "location": "Anywhere - Canada",
-    "description": "Development ManagerAequilibrium is a top Canadian professional services company that is remote-only. We seek a seasoned Development Manager to oversee our technology, spanning our company's Digital Transformation and Innovation business units. The"
-  },
-  {
-    "position": "c-130 Hercules Mechanics and Crew Chiefs",
-    "company": "Coulson Group",
-    "location": "Port Alberni, BC",
-    "description": "Travel with aircraft when dispatched while on fire contract, by ground or air Conduct planned and unplanned field maintenance of the aircraft Daily checks Maintain spares, inventory, and ordering for parts trailer as required Operate t[...]"
-  },
-  {
-    "position": "Senior Manager - Dealer Sales",
-    "company": "Xplore",
-    "location": "Anywhere - Canada",
-    "description": "Xplore is seeking a Senior Manager - Dealer Sales, to join our team and lead sales efforts for our well established, national network of Dealer partners. Reporting to the Vice President - Sales, the successful candidate will be respons[...]"
-  },
-  {
-    "position": "Data Analyst, BC Renal Agency",
-    "company": "Provincial Health Services Authority",
-    "location": "Vancouver, BC",
-    "description": "Data Analyst, BC Renal AgencyBC Renal AgencyVancouver, BCIn accordance with the Mission, Vision and Values, and strategic directions of Provincial Health Services Authority patient safety is a priority and a responsibility shared by ev[...]"
-  },
-  {
-    "position": "Business Application Specialist",
-    "company": "RBC - Royal Bank",
-    "location": "Vancouver, BC",
-    "description": "Job SummaryJob DescriptionWhat is the Opportunity?RBC Wealth Management Canada is looking for a Business Application Specialist (BAS) to join the Training & Development department. The ideal candidate will play a key role in providing [...]"
-  },
-  {
-    "position": "Senior Lead, Product Operations, Checkout & B2b Remote - Americas",
-    "company": "Shopify",
-    "location": "Anywhere - Canada",
-    "description": "solve bottlenecks, streamline communication, accelerate decisions and help us focus and move faster to make merchants successfulGather and analyze large amounts of information quickly and disseminate insights leading to data-informed p[...]"
-  },
-  {
-    "position": "Software Engineer: Internship Opportunities, Vancouver, BC",
-    "company": "Microsoft Canada",
-    "location": "Vancouver, BC",
-    "description": "As a Software Engineering Intern, you will work with teammates to solve problems and build innovative software solutions. You will apply your passion for customers and product quality as you provide technical guidance to Technical Prog[...]"
-  },
-  {
-    "position": "Isc Functional Support Analyst",
-    "company": "UBC",
-    "location": "Vancouver, BC",
-    "description": "Staff - Non UnionJob CategoryM&P - AAPSJob ProfileAAPS Salaried - Administration, Level BJob TitleISC Functional Support AnalystDepartmentCross Functional Product | Integrated Service Centre | Finance and Operational Excellence | VP Fi[...]"
-  },
-  {
-    "position": "Admin Coordinator",
-    "company": "Salvation Army",
-    "location": "Vancouver, BC",
-    "description": "Description The Admin Coordinator provides efficient, accurate, confidential support to Harbour Light's administrative team. The Administrative Coordinator plays a key role supporting team/committee meetings, preparing and processing d[...]"
-  },
-  {
-    "position": "Test Automation Manager",
-    "company": "Accenture",
-    "location": "Montreal, QC",
-    "description": "Test Automation Manager Job Description:ARE YOU READY to step up to the New and take your technology expertise to the next level.There is never a typical day at Accenture, but that\u2019s why we love it here! This is an extraordinary oppo[...]"
-  },
-  {
-    "position": "Design Specialist II - 5g Capacity and Data Analytics",
-    "company": "TELUS",
-    "location": "Ottawa, ON",
-    "description": "You'll have the opportunity to master cutting-edge technologies while applying modern engineering practices, including automation and AI/ML, as we build and maintain Canada's most reliable wireless network As a 5G Capacity and Data Ana[...]"
-  },
-  {
-    "position": "IT Specialist",
-    "company": "7Shifts",
-    "location": "Toronto, ON",
-    "description": "As the IT Specialist at 7shifts, you'll play a key role in ensuring our Shifties have a seamless and efficient tech experience. From troubleshooting issues to optimizing systems, you'll help keep operations running smoothly while makin[...]"
-  },
-  {
-    "position": "Software Engineer",
-    "company": "BFL CANADA Risk and Insurance",
-    "location": "Vancouver, BC",
-    "description": "We are looking for a Software Engineer for our Vancouver Office! As a Software Engineer, you will be responsible to strategically design and implement an in-house information system that supports core organizational functions. In addit[...]"
-  },
-  {
-    "position": "Server Support Analyst",
-    "company": "Prospera Credit Union",
-    "location": "Surrey, BC",
-    "description": "As a Server Support Analyst you will be responsible for providing ongoing support to all employees of Prospera Credit Union. Responsibilities include providing support for all systems and applications, coordinating, and communicating a[...]"
-  },
-  {
-    "position": "Cyber and Information Security Architect",
-    "company": "Prospera Credit Union",
-    "location": "Surrey, BC",
-    "description": "As a Cyber and Information Security Architect, you will be working collaboratively with the Architecture Review Board (ARB)and other governance teams, such as Data Governance, the role will be essential in conveying the National Instit[...]"
-  },
-  {
-    "position": "Vulnerability Scanning Analyst (Global Security)",
-    "company": "RBC - Royal Bank",
-    "location": "Vancouver, BC",
-    "description": "Job SummaryJob DescriptionWhat is the opportunity? As a Vulnerability Scanning Analyst, you will be responsible for conducting security scans, identifying vulnerabilities, and working with internal teams to mitigate risks across RBC's [...]"
-  },
-  {
-    "position": "IT Service Technician",
-    "company": "Flynn Canada Ltd",
-    "location": "Vancouver, BC",
-    "description": "At Flynn, it's not just a job, it's a careerWe are looking for an IT Service Technician to join our team to work from our Vancouver office (19175 22nd Avenue Surrey, BC), reporting to Manager, Helpdesk. The primarily focus of this role[...]"
-  },
-  {
-    "position": "Retail Business Manager",
-    "company": "Rogers communications inc.",
-    "location": "Montreal, QC",
-    "description": "We are looking for team members who have a passion for delivering industry-leading value to customers and businesses in the communities where we live and work, so come build a rewarding career at Rogers and be a driving force behind ou[...]"
-  },
-  {
-    "position": "Software Engineer",
-    "company": "Microsoft Canada",
-    "location": "Vancouver, BC",
-    "description": "OverviewAre you a passionate software engineer looking to make a tangible impact? At Microsoft, we\u2019re seeking a talented Software Engineer to join our dynamic Cashback Platform team. Dive into cutting-edge technologies, collaborate w[...]"
-  },
-  {
-    "position": "Principal Data Scientist",
-    "company": "Microsoft Canada",
-    "location": "Vancouver, BC",
-    "description": "We are looking for a highly motivated and experienced Principal Data Scientist to join our Growth and Analytics team.Microsoft\u2019s mission is to empower every person and every organization on the planet to achieve more. As employees[...]"
-  },
-  {
-    "position": "Design Emg Verification Engineering Intern/Co-op - 8 Month Summer",
-    "company": "AMD",
-    "location": "Vancouver, BC",
-    "description": "As a key contributor to the success of AMD\u2019s IP, you will be part of a leading team to drive and improve AMD\u2019s abilities to deliver the highest quality, industry leading technologies to market. The NBIO Team fosters and encourages [...]"
-  },
-  {
-    "position": "Software Engineer- Hardware Modeling",
-    "company": "AMD",
-    "location": "Vancouver, BC",
-    "description": "The Role:As a member of the Memory PHY architecture modeling team, you will help build the next memory PHY model used for firmware development and boot loader verification. The architecture model is a reusable IP and its variances are [...]"
-  },
-  {
-    "position": "Hardware Design Verification Engineering Intern/Co-Op (Undergrad | Summer 2025 | Onsite/hybrid)",
-    "company": "AMD",
-    "location": "Vancouver, BC",
-    "description": "Job Description WHAT YOU DO AT AMD CHANGES EVERYTHING We care deeply about transforming lives with AMD technology to enrich our industry, our communities, and the world. Our mission is to build great products that accelerate next-generation computing"
-  }
-]
+{
+  "itjobs": [
+    {
+      "position": "Senior API Platform Solutions Design Engineer",
+      "company": "Sun Life Financial",
+      "location": "Toronto, ON",
+      "description": "but are not limited to the following: Lead the design, development, deployment and rollout of enhancements on the API Platform, both in the cloud and on premise.Participate in the design of delivery solutions, ensuring alignment with b[...]"
+    },
+    {
+      "position": "Project Manager II - Senior Project Manager, Technology Services",
+      "company": "City of Vancouver",
+      "location": "Vancouver, BC",
+      "description": "cross-department projects, including: Manages project teams to successfully deliver projects. Assigns work to project team members, specifying deliverables, timelines and quality expectations. Monitors performance of project team membe[...]"
+    },
+    {
+      "position": "Data Scientist (6-month Full-time)",
+      "company": "Technical Safety BC",
+      "location": "Vancouver, BC",
+      "description": "The Opportunity As a part of the Research and Analytics team, the position will exercise leadership through data science to effect positive change to the organization and stakeholders alike. Responsible for analyzing safety data and de[...]"
+    },
+    {
+      "position": "Cyber Security Specialist 3",
+      "company": "BCLC",
+      "location": "Anywhere - British Columbia",
+      "description": "JOB SUMMARY The Cyber Security Specialist 3 role supports BCLC's Cyber Security program and supports projects and business operations by taking a lead role in identifying information security risks in high-complexity systems, recommend[...]"
+    },
+    {
+      "position": "Systems Analyst, Clinical Solutions, Imits",
+      "company": "Provincial Health Services Authority",
+      "location": "Vancouver, BC",
+      "description": "Job Type: Full-Time, Part-Time, Temporary, Casual, Contractor Job Level: Entry, Mid, Senior Travel: Minimal Job Details Systems Analyst, Clinical Solutions, IMITS Vancouver, Canada APPLY SAVE JOB BUTTON Job ID 2429791_pl355 Date posted[...]"
+    },
+    {
+      "position": "Devsecops Solutions Consultant Hit enter to view the job description",
+      "company": "OpenText",
+      "location": "Anywhere - Canada",
+      "description": "As a member of our team, you will have the opportunity to partner with the most highly regarded companies in the world, tackle complex issues, and contribute to projects that shape the future of digital transformation. YOUR IMPACTAs De[...]"
+    },
+    {
+      "position": "Product Marketing Manager-AI&IOT (Canada) Hit enter to view the job description",
+      "company": "OpenText",
+      "location": "Anywhere - Canada",
+      "description": "As a member of our team, you will have the opportunity to partner with the most highly regarded companies in the world, tackle complex issues, and contribute to projects that shape the future of digital transformation. YOUR IMPACTProdu[...]"
+    },
+    {
+      "position": "Digital Content Designer",
+      "company": "Rogers communications inc.",
+      "location": "Moncton, NB",
+      "description": "If you are interested in being a part of this, consider applying for the following opportunity: Digital Content Designer Reporting to the Senior Manager, Digital Content, you will collaborate with marketing, product, UX, and digital an[...]"
+    },
+    {
+      "position": "User Experience Designer",
+      "company": "SAP",
+      "location": "Vancouver, BC",
+      "description": "you are able to develop and present design ideas in a large team environment. Prior experience working within a technical environment is a key requirement. You possess strong experience and interaction design skills, as well as compreh[...]"
+    },
+    {
+      "position": "Corporate Digital Account Executive",
+      "company": "SAP",
+      "location": "Vancouver, BC",
+      "description": "Corporate Digital Account Executive What you'll do: The Account Executive (AE) role empowers customers to achieve their full potential by strategically positioning SAP cloud solutions to address their unique business challenges and lay[...]"
+    },
+    {
+      "position": "Software Development Engineer, S3",
+      "company": "Amazon",
+      "location": "Vancouver, BC",
+      "description": "There's an element of algorithmic experimentation and discovery, as well as an opportunity to build operational excellence, and hear directly from our customers.BASIC QUALIFICATIONS- 3+ years of non-internship professional software dev[...]"
+    },
+    {
+      "position": "Software Development Engineer, AWS Marketplace, Partner Onboarding Management",
+      "company": "Amazon",
+      "location": "Vancouver, BC",
+      "description": "As a Software Development Engineer on the team you will own significant portions of the product and will have significant influence on our strategy by helping define the next wave of product features and system architecture. The system[...]"
+    },
+    {
+      "position": "Senior Software Engineer - Full Stack",
+      "company": "Microsoft Canada",
+      "location": "Vancouver, BC",
+      "description": "The Viva Horizontals team is looking to hire a Senior Software Engineer - Full Stack who has a passion for technology, intellectual curiosity, and willingness to learn and share knowledge. We have a full roadmap and some interesting ch[...]"
+    },
+    {
+      "position": "Senior Data Analyst",
+      "company": "Microsoft Canada",
+      "location": "Vancouver, BC",
+      "description": "We are seeking a goal-driven Senior Data Analyst with extensive experience in delivering data-driven decision making & self-serve analytics to optimize customer experience and support operations across Microsoft's assisted and self-ser[...]"
+    },
+    {
+      "position": "Senior Researcher - Systems and Networking, Microsoft Research",
+      "company": "Microsoft Canada",
+      "location": "Vancouver, BC",
+      "description": "Experience publishing academic papers as a lead author or essential contributor. Experience participating in a top conference in relevant research domain. Background in systems and networking, including experience with machine learning[...]"
+    },
+    {
+      "position": "Senior Researcher - Artificial Specialized Intelligence, Microsoft Research",
+      "company": "Microsoft Canada",
+      "location": "Vancouver, BC",
+      "description": "Experience publishing academic papers as a lead author or essential contributor. Experience participating in a top conference in relevant research domain. Background in system and architecture, including experience with computer hardwa[...]"
+    },
+    {
+      "position": "Researcher - Cloud and AI Infrastructure, Microsoft Research",
+      "company": "Microsoft Canada",
+      "location": "Vancouver, BC",
+      "description": "you will investigate and analyze emerging hardware technologies, trends, and advancements to stay ahead of the industry. Design and optimize hardware components, systems, and architectures to enhance performance, reliability, and effic[...]"
+    },
+    {
+      "position": "Senior Researcher - Cloud and AI Infrastructure, Microsoft Research",
+      "company": "Microsoft Canada",
+      "location": "Vancouver, BC",
+      "description": "you will investigate and analyze emerging hardware technologies, trends, and advancements to stay ahead of the industry. Design and optimize hardware components, systems, and architectures to enhance performance, reliability, and effic[...]"
+    },
+    {
+      "position": "Researcher - Artificial Specialized Intelligence, Microsoft Research",
+      "company": "Microsoft Canada",
+      "location": "Vancouver, BC",
+      "description": "Experience publishing academic papers as a lead author or essential contributor. Experience participating in a top conference in relevant research domain. Background in system and architecture, including experience with computer hardwa[...]"
+    },
+    {
+      "position": "Researcher - Systems and Networking, Microsoft Research",
+      "company": "Microsoft Canada",
+      "location": "Vancouver, BC",
+      "description": "Experience publishing academic papers as a lead author or essential contributor. Experience participating in a top conference in relevant research domain. Background in systems and networking, including experience with machine learning[...]"
+    },
+    {
+      "position": "Technical Support Engineering",
+      "company": "Microsoft Canada",
+      "location": "Anywhere - Canada",
+      "description": "Technical Support Engineering IC3 - The typical base pay range for this role across Canada is CAD $66,500 - CAD $128,300 per year.Find additional pay information here: https://careers.microsoft.com/v2/global/en/canada-pay-information.h[...]"
+    },
+    {
+      "position": "Principal Software Engineer",
+      "company": "Microsoft Canada",
+      "location": "Vancouver, BC",
+      "description": "Does the opportunity to be involved in state-of-the-art development, measurement and experimentation by leveraging Large Language Model inspiring? If so, this Principal Software Engineer position may be a perfect fit for you!Microsoft [...]"
+    },
+    {
+      "position": "Big Data Developer, Gft",
+      "company": "RBC - Royal Bank",
+      "location": "Vancouver, BC",
+      "description": "creative and results-driven professional who thrives on delivering high-performing applications? Come join us!Global Functions Technology (GFT) is part of RBC's Technology and Operations division. GFT's impact is far-reaching as we col[...]"
+    },
+    {
+      "position": "DevOps Manager",
+      "company": "Accenture",
+      "location": "Montreal, QC",
+      "description": "Job Description DevOps Manager Job Description:ARE YOU READY to step up to the New and take your technology expertise to the next level.There is never a typical day at Accenture, but that's why we love it here! This is an extraordinary[...]"
+    },
+    {
+      "position": "Support Analyst l",
+      "company": "UBC",
+      "location": "Vancouver, BC",
+      "description": "Staff - Non UnionJob CategoryM&P - AAPSJob ProfileAAPS Salaried - Information Systems and Technology, Level AJob TitleSupport Analyst lDepartmentUBC IT | Service CentreCompensation Range$5,365.42 - $7,709.92 CAD MonthlyThe Compensation[...]"
+    },
+    {
+      "position": "CAD Designer",
+      "company": "Arpac Storage Systems Corporation",
+      "location": "Delta, BC",
+      "description": "Our Delta Storage Products division is seeking a full-time CAD Designer to join our Engineering and Design team! The ideal candidate has 2+ years of experience designing customized racking parts and systems, experience using AutoCAD, a[...]"
+    },
+    {
+      "position": "Support Engineer Manager- Data Technology",
+      "company": "Microsoft Canada",
+      "location": "Vancouver, BC",
+      "description": "Uses tools and strategy to monitor the performance of a team or delivery unit as a whole (e.g., backlog, structure, trends, volume, other business metrics). Serves as the first line of management escalation.\u00b7 Tracks resolution speed a[...]"
+    },
+    {
+      "position": "Test Data Management Lead",
+      "company": "Accenture",
+      "location": "Montreal, QC",
+      "description": "Job Description Test Data Management Lead Job Description:ARE YOU READY to step up to the New and take your technology expertise to the next level.There is never a typical day at Accenture, but that's why we love it here! This is an ex[...]"
+    },
+    {
+      "position": "Product Care Specialist (Mobile Klinik) | Guildford Town, BC",
+      "company": "TELUS",
+      "location": "Surrey, BC",
+      "description": "where every day is different Engage with prospective and current customers in store, by phone and messaging Provide repair and replacement estimates for the customer Working hours and locations Opportunity to work with all of our brand[...]"
+    },
+    {
+      "position": "Quality Assurance Manager",
+      "company": "RailWorks",
+      "location": "Abbotsford, BC",
+      "description": "implements and maintains project-specific quality control programs and processes to meet or exceed quality goals, expectations and plans. Oversees quality testing and inspections; evaluates engineering, procurement, and construction ac[...]"
+    },
+    {
+      "position": "Senior IT Project Manager",
+      "company": "West Fraser",
+      "location": "Vancouver, BC",
+      "description": "Coach, mentor, motivate and supervise project team members and contractors, and influence them to take positive actions and accountability for their assigned work Assist IT and PMO leadership in developing and improving project managem[...]"
+    },
+    {
+      "position": "Supervisor Front End-ft Admirals",
+      "company": "Thrifty Foods",
+      "location": "Victoria, BC",
+      "description": "Requisition ID:  187342  Career Group: Store Careers  Job Category: Retail - Front End  Travel Requirements: 0 - 10% Job Type: Full-Time  Country: Canada (CA)  Province: British Columbia  City: Victoria Location: 9463 Admirals Walk Thrifty Postal"
+    },
+    {
+      "position": "Senior Product Manager",
+      "company": "RBC - Royal Bank",
+      "location": "Vancouver, BC",
+      "description": "We are seeking a Senior Product Manager to lead a product in our Generative AI Advice Centre portfolio. In this role, you will be responsible for shaping the vision, strategy, and delivery of generative AI products. You will work at th[...]"
+    },
+    {
+      "position": "Sr. Technical Program Manager, Tax Engine",
+      "company": "Amazon",
+      "location": "Vancouver, BC",
+      "description": "As a Sr. Technical Program Manager on the team:- You will have end to end ownership of cross-functional projects, including product definition, roadmap planning, and resource planning and project execution.- Along with business initiat[...]"
+    },
+    {
+      "position": "Senior Software Development Engineer, Tax Content Management",
+      "company": "Amazon",
+      "location": "Vancouver, BC",
+      "description": "BASIC QUALIFICATIONS- 5+ years of non-internship professional software development experience- 5+ years of programming with at least one software programming language experience- 5+ years of leading design or architecture (design patte[...]"
+    },
+    {
+      "position": "Manager III, TPM, Ww Prime - Member Growth - Tech",
+      "company": "Amazon",
+      "location": "Vancouver, BC",
+      "description": "demonstrated leader/manager with superior people management and analytical abilities. This opportunity requires excellent technical, problem-solving, and communication skills. This candidate should possess verifiable leadership qualiti[...]"
+    },
+    {
+      "position": "Senior Fx Artist - 3D (BC Based)",
+      "company": "Mainframe Studios",
+      "location": "Vancouver, BC",
+      "description": "With partners like Mattel, Netflix, DreamWorks, Sony, Silvergate, and Nickelodeon, it's no wonder we've established ourselves as a creative force to be reckoned with. In crewing our shows, Mainframe Studios values the strength in the d[...]"
+    },
+    {
+      "position": "Graphic Designer",
+      "company": "QuadReal",
+      "location": "Vancouver, BC",
+      "description": "comGraphic Designer, Oakridge ParkRole DescriptionReporting to the Marketing Director, the Graphic Designer at Oakridge Park is responsible for the visual and digital identity of Oakridge Park's brand.As the creative lead, the Graphic [...]"
+    },
+    {
+      "position": "Integration Solution Architect (Systems Analyst III)",
+      "company": "City of Vancouver",
+      "location": "Vancouver, BC",
+      "description": "evaluates and recommends new tools and methodologies for the integration of enterprise applications Validates, Refines and Expands the Enterprise Architecture Model Verifies assumptions; utilizes subject matter experts to improve and f[...]"
+    },
+    {
+      "position": "ICT Information Technologist (info Tech)",
+      "company": "Make a Future - BC Public Schools",
+      "location": "Coquitlam, BC",
+      "description": "Providing on-site technical support and staff training, installation, configuration, trouble shooting and resolution of any software and/or hardware problems that may arise with computer users for educational and administrative functio[...]"
+    },
+    {
+      "position": "Sr Analyst Wireless Base Mgmt",
+      "company": "Rogers communications inc.",
+      "location": "Montreal, QC",
+      "description": "Our company was built on the dream of a pioneering entrepreneur, and that spirit continues to empower our work with businesses across Canada today. The Rogers Business team helps organizations of all sizes adapt, scale, and win with network services"
+    },
+    {
+      "position": "Senior Data Analyst",
+      "company": "Wawanesa Insurance",
+      "location": "Dartmouth, NS",
+      "description": "Job Overview This exciting job opportunity as a Data Analyst (or Senior Data Analyst) will be part of the Personal Lines Pricing Insights team and play a key role in building data products and reporting that supports decision making in[...]"
+    },
+    {
+      "position": "SMTS Software Development Eng.",
+      "company": "AMD",
+      "location": "Vancouver, BC",
+      "description": "Optimize Deep Learning Frameworks: Enhance and optimize frameworks like TensorFlow and PyTorch for AMD GPUs in open-source repositories. Develop GPU Kernels: Create and optimize GPU kernels to maximize performance for specific AI o[...]"
+    },
+    {
+      "position": "L3 Data Management",
+      "company": "TELUS",
+      "location": "Ottawa, ON",
+      "description": "What you'll do As an L3 Data management on the Analytics & Insight team within Supply Operations and Procurement, you will play a pivotal role in supporting complex cross-functional programs and driving strategic initiatives with a foc[...]"
+    },
+    {
+      "position": "Senior Customer Solutions Architect- Cybersecurity",
+      "company": "TELUS",
+      "location": "Calgary, AB",
+      "description": "Description Are you ready to help our customers take their Cybersecurity to the next level? Our team and what we'll accomplish together As a Senior Cybersecurity CSA, you'll play an essential role in supporting our clients and sales te[...]"
+    },
+    {
+      "position": "Salesforce Administrator",
+      "company": "UBC",
+      "location": "Vancouver, BC",
+      "description": "Staff - Non UnionJob CategoryM&P - AAPSJob ProfileAAPS Salaried - Information Systems and Technology, Level DJob TitleSalesforce AdministratorDepartmentSenior Managers | Finance and IT | UBC Sauder School of BusinessCompensation Range$[...]"
+    },
+    {
+      "position": "Desktop Support",
+      "company": "Mainframe Studios",
+      "location": "Vancouver, BC",
+      "description": "WE WANT YOU (and your mad skills)! Reporting to the Director of IT & Facilities, Desktop Support will be responsible for providing 1st and 2nd level hardware and software support for computer users. We are seeking a skilled and custome[...]"
+    },
+    {
+      "position": "Development Manager (Technology)",
+      "company": "Aequilibrium",
+      "location": "Anywhere - Canada",
+      "description": "Development ManagerAequilibrium is a top Canadian professional services company that is remote-only. We seek a seasoned Development Manager to oversee our technology, spanning our company's Digital Transformation and Innovation business units. The"
+    },
+    {
+      "position": "c-130 Hercules Mechanics and Crew Chiefs",
+      "company": "Coulson Group",
+      "location": "Port Alberni, BC",
+      "description": "Travel with aircraft when dispatched while on fire contract, by ground or air Conduct planned and unplanned field maintenance of the aircraft Daily checks Maintain spares, inventory, and ordering for parts trailer as required Operate t[...]"
+    },
+    {
+      "position": "Senior Manager - Dealer Sales",
+      "company": "Xplore",
+      "location": "Anywhere - Canada",
+      "description": "Xplore is seeking a Senior Manager - Dealer Sales, to join our team and lead sales efforts for our well established, national network of Dealer partners. Reporting to the Vice President - Sales, the successful candidate will be respons[...]"
+    },
+    {
+      "position": "Data Analyst, BC Renal Agency",
+      "company": "Provincial Health Services Authority",
+      "location": "Vancouver, BC",
+      "description": "Data Analyst, BC Renal AgencyBC Renal AgencyVancouver, BCIn accordance with the Mission, Vision and Values, and strategic directions of Provincial Health Services Authority patient safety is a priority and a responsibility shared by ev[...]"
+    },
+    {
+      "position": "Business Application Specialist",
+      "company": "RBC - Royal Bank",
+      "location": "Vancouver, BC",
+      "description": "Job SummaryJob DescriptionWhat is the Opportunity?RBC Wealth Management Canada is looking for a Business Application Specialist (BAS) to join the Training & Development department. The ideal candidate will play a key role in providing [...]"
+    },
+    {
+      "position": "Senior Lead, Product Operations, Checkout & B2b Remote - Americas",
+      "company": "Shopify",
+      "location": "Anywhere - Canada",
+      "description": "solve bottlenecks, streamline communication, accelerate decisions and help us focus and move faster to make merchants successfulGather and analyze large amounts of information quickly and disseminate insights leading to data-informed p[...]"
+    },
+    {
+      "position": "Software Engineer: Internship Opportunities, Vancouver, BC",
+      "company": "Microsoft Canada",
+      "location": "Vancouver, BC",
+      "description": "As a Software Engineering Intern, you will work with teammates to solve problems and build innovative software solutions. You will apply your passion for customers and product quality as you provide technical guidance to Technical Prog[...]"
+    },
+    {
+      "position": "Isc Functional Support Analyst",
+      "company": "UBC",
+      "location": "Vancouver, BC",
+      "description": "Staff - Non UnionJob CategoryM&P - AAPSJob ProfileAAPS Salaried - Administration, Level BJob TitleISC Functional Support AnalystDepartmentCross Functional Product | Integrated Service Centre | Finance and Operational Excellence | VP Fi[...]"
+    },
+    {
+      "position": "Admin Coordinator",
+      "company": "Salvation Army",
+      "location": "Vancouver, BC",
+      "description": "Description The Admin Coordinator provides efficient, accurate, confidential support to Harbour Light's administrative team. The Administrative Coordinator plays a key role supporting team/committee meetings, preparing and processing d[...]"
+    },
+    {
+      "position": "Test Automation Manager",
+      "company": "Accenture",
+      "location": "Montreal, QC",
+      "description": "Test Automation Manager Job Description:ARE YOU READY to step up to the New and take your technology expertise to the next level.There is never a typical day at Accenture, but that\u2019s why we love it here! This is an extraordinary oppo[...]"
+    },
+    {
+      "position": "Design Specialist II - 5g Capacity and Data Analytics",
+      "company": "TELUS",
+      "location": "Ottawa, ON",
+      "description": "You'll have the opportunity to master cutting-edge technologies while applying modern engineering practices, including automation and AI/ML, as we build and maintain Canada's most reliable wireless network As a 5G Capacity and Data Ana[...]"
+    },
+    {
+      "position": "IT Specialist",
+      "company": "7Shifts",
+      "location": "Toronto, ON",
+      "description": "As the IT Specialist at 7shifts, you'll play a key role in ensuring our Shifties have a seamless and efficient tech experience. From troubleshooting issues to optimizing systems, you'll help keep operations running smoothly while makin[...]"
+    },
+    {
+      "position": "Software Engineer",
+      "company": "BFL CANADA Risk and Insurance",
+      "location": "Vancouver, BC",
+      "description": "We are looking for a Software Engineer for our Vancouver Office! As a Software Engineer, you will be responsible to strategically design and implement an in-house information system that supports core organizational functions. In addit[...]"
+    },
+    {
+      "position": "Server Support Analyst",
+      "company": "Prospera Credit Union",
+      "location": "Surrey, BC",
+      "description": "As a Server Support Analyst you will be responsible for providing ongoing support to all employees of Prospera Credit Union. Responsibilities include providing support for all systems and applications, coordinating, and communicating a[...]"
+    },
+    {
+      "position": "Cyber and Information Security Architect",
+      "company": "Prospera Credit Union",
+      "location": "Surrey, BC",
+      "description": "As a Cyber and Information Security Architect, you will be working collaboratively with the Architecture Review Board (ARB)and other governance teams, such as Data Governance, the role will be essential in conveying the National Instit[...]"
+    },
+    {
+      "position": "Vulnerability Scanning Analyst (Global Security)",
+      "company": "RBC - Royal Bank",
+      "location": "Vancouver, BC",
+      "description": "Job SummaryJob DescriptionWhat is the opportunity? As a Vulnerability Scanning Analyst, you will be responsible for conducting security scans, identifying vulnerabilities, and working with internal teams to mitigate risks across RBC's [...]"
+    },
+    {
+      "position": "IT Service Technician",
+      "company": "Flynn Canada Ltd",
+      "location": "Vancouver, BC",
+      "description": "At Flynn, it's not just a job, it's a careerWe are looking for an IT Service Technician to join our team to work from our Vancouver office (19175 22nd Avenue Surrey, BC), reporting to Manager, Helpdesk. The primarily focus of this role[...]"
+    },
+    {
+      "position": "Data Solutions Lead",
+      "company": "Accenture",
+      "location": "Montreal, QC",
+      "description": "Job Description      We are: Accenture Data & AI, the people who love using data to tell a story. We're also the world's largest team of data scientists and experts in machine learning and AI. A great day for us Solving big problems using the"
+    },
+    {
+      "position": "Retail Business Manager",
+      "company": "Rogers communications inc.",
+      "location": "Montreal, QC",
+      "description": "We are looking for team members who have a passion for delivering industry-leading value to customers and businesses in the communities where we live and work, so come build a rewarding career at Rogers and be a driving force behind ou[...]"
+    },
+    {
+      "position": "Software Engineer",
+      "company": "Microsoft Canada",
+      "location": "Vancouver, BC",
+      "description": "OverviewAre you a passionate software engineer looking to make a tangible impact? At Microsoft, we\u2019re seeking a talented Software Engineer to join our dynamic Cashback Platform team. Dive into cutting-edge technologies, collaborate w[...]"
+    },
+    {
+      "position": "Principal Data Scientist",
+      "company": "Microsoft Canada",
+      "location": "Vancouver, BC",
+      "description": "We are looking for a highly motivated and experienced Principal Data Scientist to join our Growth and Analytics team.Microsoft\u2019s mission is to empower every person and every organization on the planet to achieve more. As employees[...]"
+    },
+    {
+      "position": "Design Emg Verification Engineering Intern/Co-op - 8 Month Summer",
+      "company": "AMD",
+      "location": "Vancouver, BC",
+      "description": "As a key contributor to the success of AMD\u2019s IP, you will be part of a leading team to drive and improve AMD\u2019s abilities to deliver the highest quality, industry leading technologies to market. The NBIO Team fosters and encourages [...]"
+    },
+    {
+      "position": "Software Engineer- Hardware Modeling",
+      "company": "AMD",
+      "location": "Vancouver, BC",
+      "description": "The Role:As a member of the Memory PHY architecture modeling team, you will help build the next memory PHY model used for firmware development and boot loader verification. The architecture model is a reusable IP and its variances are [...]"
+    }
+  ],
+  "techtalent": [
+    {
+      "position": "Tester & Technical Support Specialist",
+      "company": "Land Administration Company",
+      "location": "Remote\n       (Canada)"
+    },
+    {
+      "position": "Technical Product Owner / Software Architect",
+      "company": "Land Administration Company",
+      "location": "Remote\n       (Canada)"
+    },
+    {
+      "position": "Data Analytics Engineer",
+      "company": "BC Pension Corporation",
+      "location": "Victoria, BC"
+    },
+    {
+      "position": "Data Operations Engineer",
+      "company": "Trulioo",
+      "location": "Vancouver, BC"
+    },
+    {
+      "position": "Automation Engineer",
+      "company": "Mangrove Lithium",
+      "location": "Delta, BC"
+    },
+    {
+      "position": "Mechanical Engineer",
+      "company": "Mangrove Lithium",
+      "location": "Delta, BC"
+    },
+    {
+      "position": "Customer Success Manager",
+      "company": "Boomi",
+      "location": "Vancouver, BC"
+    }
+  ]
+}
