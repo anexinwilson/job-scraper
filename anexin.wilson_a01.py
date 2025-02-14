@@ -11,6 +11,8 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 
 headers = {'User-Agent':USER_AGENT}
 
+itjobs_scraped_data = []
+
 for page in range(1,8):
     itjobs_url = itjobs_base_url + str(page)
     itjobs_page = requests.get(itjobs_url,headers=headers , verify=certifi.where())
@@ -21,7 +23,6 @@ for page in range(1,8):
     itjobs_cards = results.find_all('div',class_='result-item external')
     # itjob_position = results.find('a', class_='offer-name')
 
-    itjobs_scraped_data = []
     for itjob in itjobs_cards:
         itjob_position = itjob.find('a', class_='offer-name').contents[0].strip()
         itjob_company = itjob.find( 'a', class_='company').text.strip()
