@@ -2,3 +2,6 @@ requests
 BeautifulSoup4
 certifi
 cloudscraper
+fake_useragent
+python-dotenv
+openai
