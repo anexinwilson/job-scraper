@@ -23,7 +23,6 @@ for page in range(1,8):
     results = itjobs_soup.find('div',class_ ='result-ctn content')
     # print(results)
     itjobs_cards = results.find_all('div',class_='result-item external')
-    # itjob_position = results.find('a', class_='offer-name')
 
     for itjob in itjobs_cards:
         itjob_position = itjob.find('a', class_='offer-name').contents[0].strip()
