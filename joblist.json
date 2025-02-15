@@ -1,6 +1,12 @@
 {
   "itjobs": [
     {
+      "position": "Senior Vulnerability Management Analyst (Global Security)",
+      "company": "RBC - Royal Bank",
+      "location": "Vancouver, BC",
+      "description": "This role has a large degree of interaction with internal and external stakeholders to achieve VMG's strategic objectives across various technical platforms. The ideal candidate will have industry relevant qualifications and certificat[...]"
+    },
+    {
       "position": "Senior API Platform Solutions Design Engineer",
       "company": "Sun Life Financial",
       "location": "Toronto, ON",
@@ -95,12 +101,6 @@
       "company": "Thrifty Foods",
       "location": "Victoria, BC",
       "description": "Requisition ID: 187805  Career Group: Store Careers  Job Category: Retail - Front End  Travel Requirements: 0 - 10% Job Type: Part-Time Pay Rate: $18.50 - $24.50   Country: Canada (CA)  Province: British Columbia  City: Victoria Location: 9463"
-    },
-    {
-      "position": "Senior Vulnerability Management Analyst (Global Security)",
-      "company": "RBC - Royal Bank",
-      "location": "Vancouver, BC",
-      "description": "This role has a large degree of interaction with internal and external stakeholders to achieve VMG's strategic objectives across various technical platforms. The ideal candidate will have industry relevant qualifications and certificat[...]"
     },
     {
       "position": "Project Manager II - Senior Project Manager, Technology Services",
@@ -426,43 +426,50 @@
       "position": "Tester & Technical Support Specialist",
       "company": "Land Administration Company",
       "location": "Remote\n       (Canada)",
-      "job_description_url": "https://jobs.techtalent.ca/tester-technical-support-specialist-528ec7fe3dc5"
+      "job_description_url": "https://jobs.techtalent.ca/tester-technical-support-specialist-528ec7fe3dc5",
+      "summary": "The Land Administration Company (LAC) is looking to hire a full-time, remote, Tester & Technical Support Specialist. The role includes working hands-on with their land administration platform to test features and functionality, plan test events, and manage them. Additionally, the candidate will also provide technical support to customers, responding to queries, troubleshooting issues, and managing the customer support queue. The successful candidate should have strong skills in software testing, test planning, and management, as well as prior experience in customer support roles. The job comes with an annual salary of $70,000 - $90,000, five weeks of paid PTO, and medical & dental benefits. LAC encourages applicants from all walks of life and fosters a diverse and inclusive work environment."
     },
     {
       "position": "Technical Product Owner / Software Architect",
       "company": "Land Administration Company",
       "location": "Remote\n       (Canada)",
-      "job_description_url": "https://jobs.techtalent.ca/technical-product-owner-software-architect-5856f89f11f4"
+      "job_description_url": "https://jobs.techtalent.ca/technical-product-owner-software-architect-5856f89f11f4",
+      "summary": "The Land Administration Company (LAC) is hiring a full-time Technical Product Owner/Software Architect to work remotely from Canada. The chosen candidate will be responsible for translating customer needs into detailed specifications and solutions for the company's platform in the geospatial domain. This role involves becoming an expert in the LAC's LAVA platform, liaising between customers and company internal teams, working closely with the product owner and development team, and mentoring junior team members. Tracking market trends and industry development, the candidate must also be prepared to provide on-site support for clients and present reports clearly. Applicants must hold a Bachelor's degree in Computer Science or Engineering, demonstrate knowledge of geospatial products and have a strong technical engineering and software development background. The salary ranges from $100,000 to $150,000 annually, with medical and dental benefits, support for professional development, and five weeks paid PTO."
     },
     {
       "position": "Data Analytics Engineer",
       "company": "BC Pension Corporation",
       "location": "Victoria, BC",
-      "job_description_url": "https://jobs.techtalent.ca/data-analytics-engineer-492ffb259aaf"
+      "job_description_url": "https://jobs.techtalent.ca/data-analytics-engineer-492ffb259aaf",
+      "summary": "The Data Analytics Engineer will join the Information Technology Services team in Victoria, British Columbia, Canada. They will have broad technical expertise across multiple technology stacks and provide technical guidance, consultation, development, and implementation to enable data analytics and insights across the enterprise. The role includes developing and implementing governance standards and practices for the technology supporting analytics in the corporation, providing hands-on support for data delivery to the analytics team, and planning and implementing data acquisition and transformations. Applicants must hold a Bachelor's Degree in Software or Computer Engineering or a related field and have extensive experience with data warehousing, database creation, systems design, and cloud-based data solutions. This is a hybrid role with both on-campus and off-campus work."
     },
     {
       "position": "Data Operations Engineer",
       "company": "Trulioo",
       "location": "Vancouver, BC",
-      "job_description_url": "https://jobs.techtalent.ca/data-operations-engineer-367f2dd69988"
+      "job_description_url": "https://jobs.techtalent.ca/data-operations-engineer-367f2dd69988",
+      "summary": "Trulioo, a global heavyweight in digital identity verification, is hiring a Data Operations Engineer. This role involves managing data pipelines, optimizing data workflows, monitoring data quality, and supporting data-driven initiatives. The successful candidate will have at least 3 years of experience in data operations and a Bachelor's degree in a related field. Technical proficiency with cloud platforms, programming languages such as Python and SQL, and familiarity with databases like MySQL or PostgreSQL are essential. Duties include designing and maintaining data pipelines, identifying and resolving data issues, ensuring data compliance, and collaborating with other teams to meet business needs. The work environment offers a variety of benefits including health plans, PTO, flexible working, wellness incentives and employee resource groups. Proficiency in ETL/ELT tools and familiarity with data visualization tools are preferred but not required."
     },
     {
       "position": "Automation Engineer",
       "company": "Mangrove Lithium",
       "location": "Delta, BC",
-      "job_description_url": "https://jobs.techtalent.ca/automation-engineer-c3fd9b24ef0a"
+      "job_description_url": "https://jobs.techtalent.ca/automation-engineer-c3fd9b24ef0a",
+      "summary": "Mangrove Lithium, a Canadian cleantech company, is seeking an Automation Engineer to join their multidisciplinary engineering team. The successful candidate will design, program, commission, and troubleshoot PLC, HMI & SCADA control systems at the company\u2019s future facilities. Applicants should have a well-rounded technical skill set, familiarity with industrial control systems, and a proven track record in product development and technology commercialisation. This role offers potential for career development and growth, and will operate primarily from the Delta, BC facility. The ideal candidate will have a bachelor's degree in Electrical Engineering or a related field, 5+ years of industrial experience, and a strong interest in R&D and product development. Previous experience with EPC companies, as well as proficiency in drafting and modifying 2D AutoCAD files and using 3D plant modelling software, is required."
     },
     {
       "position": "Mechanical Engineer",
       "company": "Mangrove Lithium",
       "location": "Delta, BC",
-      "job_description_url": "https://jobs.techtalent.ca/mechanical-engineer-a99ea8d3ea0c"
+      "job_description_url": "https://jobs.techtalent.ca/mechanical-engineer-a99ea8d3ea0c",
+      "summary": "Mangrove Lithium, a Canadian cleantech firm, is seeking a Mechanical Engineer to join their multidisciplinary team. The role involves supporting the development and installation of chemical plant designs, particularly assisting with the creation of their first commercial plant. Responsibilities also include preparing and implementing designs, reviewing documentation from EPC, troubleshooting projects, and ensuring projects meet industry standards and safety regulations. Candidates should have a Bachelor's degree in Mechanical Engineering, five years of industrial experience, familiarity with AutoCAD and 3D plant modelling software, and an understanding of electrochemistry. They should also be able to register with Engineers and Geoscientists BC."
     },
     {
       "position": "Customer Success Manager",
       "company": "Boomi",
       "location": "Vancouver, BC",
-      "job_description_url": "https://jobs.techtalent.ca/customer-success-manager-7b4da57bbf30"
+      "job_description_url": "https://jobs.techtalent.ca/customer-success-manager-7b4da57bbf30",
+      "summary": "Boomi is seeking a Customer Success Manager to work from their new office in Vancouver, B.C. The successful candidate will guide clients through the implementation, optimization and adoption of Boomi's Enterprise platform. They will have a strong understanding of complex system integration, cloud, data architecture and API, allowing them to provide insights to customers. The role involves leading customer engagements, planning onboarding and platform adoption, providing consultation and strategic guidance, building client relationships, managing client portfolios and issues, and delivering reviews and value assessments. Candidates should have a bachelor\u2019s degree, 4+ years of related experience, strong technical and business acumen, and excellent communication and stakeholder management skills. Knowledge of middleware iPaaS, cloud architecture, and Boomi's platform is preferred. The position offers $106848-$187200 CAD annual salary."
     }
   ]
 }
